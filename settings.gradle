@@ -1,0 +1,3 @@
+include ':NumberUtilAndStringHelpers'
+include ':app'
+rootProject.name = "NumberUtil"
