@@ -8,7 +8,6 @@ import java.text.DecimalFormat
  * @email 2538096489@qq.com
  * @time 2018-09-17 16:37
  * @class hzz
- * @package com.gsww.hzz.tools.utils
  */
 object NumUtil {
     /**
